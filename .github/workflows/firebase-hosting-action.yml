@@ -15,5 +15,4 @@ jobs:
           repoToken: '${{ secrets.GITHUB_TOKEN }}'
           firebaseServiceAccount: '${{ secrets.FIREBASE_SERVICE_ACCOUNT_STORYFLOW_3F042 }}'
           projectId: storyflow-3f042
-          target: storyflow
           channelId: live
